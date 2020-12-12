@@ -2271,7 +2271,6 @@ input.cart-plus-minus-box {
 }
 
 .about-us-area.fade-in .brief p{
-  transform: translateX(0px);
   opacity: 1;
 }
 
@@ -2283,7 +2282,6 @@ input.cart-plus-minus-box {
 
 .about-us-area.fade-in .about-photo  {
   background: white;
-  transform: translateY(50px);
   transition: all 1s ease-in ;
   opacity: 1;
 } 
