@@ -510,7 +510,6 @@ body {
   padding-right: 30px;
   right: 0;
   top: 50%;
-  transform: translateY(-50%);
   width: 70%;
 }
 .banner-2 .banner-title {
@@ -1007,7 +1006,6 @@ body {
   left: 55%;
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
 }
 .product-style-2 .single-product {
   background: #fff none repeat scroll 0 0;
@@ -2237,7 +2235,6 @@ input.cart-plus-minus-box {
 }
 
 .about-us-area.fade-in .brief{
-  transform: translateX(0px);
   opacity: 1;
 }
 
@@ -2247,7 +2244,6 @@ input.cart-plus-minus-box {
 }
 
 .about-us-area.fade-in .about-photo img{
-  transform: translateY(0px);
   opacity: 1;
 }
 
@@ -2260,7 +2256,6 @@ input.cart-plus-minus-box {
 }
 
 .about-us-area.fade-in .brief h1{
-  transform: translateX(0px);
   opacity: 1;
   padding-bottom:20px;
 }
