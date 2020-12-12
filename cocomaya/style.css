@@ -2041,7 +2041,6 @@ input.cart-plus-minus-box {
 /*about-us*/
 .about-us { padding: 40px;}
 .about-brief {
-  margin-top: 40px;
   min-height: 350px;
   padding: 40px 0px 30px 0px;
 }
@@ -2233,7 +2232,6 @@ input.cart-plus-minus-box {
   opacity: 1;
 }
 .about-us-area .brief{
-  transform: translateX(50px);
   transition: all 1s ease-in;
 
 }
@@ -2245,7 +2243,6 @@ input.cart-plus-minus-box {
 
 
 .about-us-area .about-photo img{
-  transform: translateY(50px);
   transition: all 1s ease-in;
 }
 
@@ -2256,7 +2253,6 @@ input.cart-plus-minus-box {
 
 .about-us-area .brief h1{
 
-  transform: translateX(50px);
   transition: all 1s ease-in .3s;
   font-size: 45px;
   color: #675856;
@@ -2270,7 +2266,6 @@ input.cart-plus-minus-box {
 }
 
 .about-us-area .brief p{
-  transform: translateX(50px);
   transition: all 1s ease-in .6s;
   color: #675856;
   line-height: 1.6;
